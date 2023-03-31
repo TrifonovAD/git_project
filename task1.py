@@ -1,3 +1,5 @@
+# Вычисляем время выполнения
+
 import time
 start_time= time.time()
 def fun():
